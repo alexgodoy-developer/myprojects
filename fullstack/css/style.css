@@ -1,0 +1,31 @@
+
+h1{
+    color: crimson;
+}
+
+/* .paragraph{
+    background-color: black;
+    color: aqua;
+    padding: 5px;
+} */
+
+#text-exclusive{
+    background-color: blueviolet;
+    color: rgb(26, 221, 221);
+    padding: 10px;
+}
+
+#bg{
+    background-color: rgb(46, 202, 59);
+    color: yellow;
+}
+
+.bg{
+    background-color: rgb(38, 6, 38);
+    color: white;
+    opacity: 0.5;
+}
+
+h2{
+    color: darkred;
+}
